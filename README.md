@@ -2,7 +2,7 @@
 
 A disclaimer: I am a palaeontologist and and evolutionary biologist, not a linguist.
 
-This is a hobby project to satisfy my dilettante's interest in the evolution of language. This project is (more-or-less) a greatly-shortened adaptation of palaeontological analyses I've run on marine organisms, applied to the English language.
+This is a hobby project to satisfy my dilettante's interest in the evolution of language. This project is (more-or-less) a greatly-simplified adaptation of palaeontological analyses I've run on marine organisms, applied to the English language.
 
 
 A bit of background... 
