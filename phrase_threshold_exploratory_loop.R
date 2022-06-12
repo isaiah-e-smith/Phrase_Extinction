@@ -23,7 +23,7 @@ nouns <- c("coyote", "anvil","shingle", "sinew", "harvester", "magnolia", "cobbl
            "pie", "fortnight", "glacier", "granite", "key")
 
 adjectives <- c("zany", "egotistical", "annoying", "brave", "colorful", "staunch", "overwhelming",
-                "crazy", "fasle", "sharp", "clever", "craven")
+                "crazy", "false", "sharp", "clever", "craven")
 
 
 
